@@ -279,12 +279,6 @@ The longer-term direction that genuinely interests me is testing whether these s
 
 ---
 
-## About
-
-I have a bachelor's in biotechnology and spent several years in the industry before making a move into bioinformatics. Research is what drew me to biology in the first place — this project is part of building the computational side of that foundation.
-
-I'm based in Canada and actively looking for opportunities in bioinformatics, computational biology, or genomics data analysis. The dataset is publicly available and everything here is reproducible. Feel free to reach out if you work in this space.
-
 ---
 
 *Dataset: GSE66313 &nbsp;|&nbsp; Platform: Illumina HumanMethylation450 &nbsp;|&nbsp; Tools: R (minfi, limma) + Python (scikit-learn) &nbsp;|&nbsp; Model: Random Forest*
